@@ -1,4 +1,4 @@
-# Economic Liberty and Fiscal Integrity Act of 2025
+# Economic Liberty and Federal Renewal Act of 2025
 
 ## A BILL
 
@@ -10,7 +10,7 @@ To liberate the American economy from burdensome federal regulations that dispro
 
 ### SECTION 1. SHORT TITLE; TABLE OF CONTENTS
 
-**(a) Short Title.**—This Act may be cited as the "Economic Liberty and Fiscal Integrity Act of 2025".
+**(a) Short Title.**-This Act may be cited as the "Economic Liberty and Federal Renewal Act of 2025".
 
 **(b) Table of Contents.**—The table of contents for this Act is as follows:
 
@@ -39,14 +39,12 @@ Sec. 303. Administration and enforcement.\
 Sec. 401. Abolition of the Federal Reserve System.\
 Sec. 402. Establishment of free banking system.\
 Sec. 403. Sound money principles.\
-**TITLE V—MISCELLANEOUS REFORMS**\
+**TITLE V-MISCELLANEOUS REFORMS**\
 Sec. 501. Abolition of federal subsidies and corporate welfare.\
 Sec. 502. Deregulation of interstate commerce.\
 Sec. 503. Promotion of free trade.\
-Sec. 504. Federal tort reform.\
 Sec. 505. Encouragement of interstate compacts for multi-state disasters.\
-Sec. 506. Reform of immigration system.\
-**TITLE VI—GENERAL PROVISIONS**\
+**TITLE VI-GENERAL PROVISIONS**\
 Sec. 601. Effective dates.\
 Sec. 602. Severability.\
 Sec. 603. Savings provisions.\
@@ -54,6 +52,15 @@ Sec. 604. Bipartisan implementation commission and sunset review.\
 Sec. 605. Contingent constitutional safeguards.\
 Sec. 606. Definitions.\
 Sec. 607. Enforcement.
+**TITLE VII-RIGHTS ENFORCEMENT AND JUDICIAL CAPACITY**\
+Sec. 701. Judicial capacity and case management.\
+Sec. 702. No Federal permit as defense to property claims.\
+Sec. 703. Preservation of State tort and property law.\
+Sec. 704. Limited Federal jurisdiction for interstate nuisance and trespass.
+**TITLE VIII-IMMIGRATION REFORM**\
+Sec. 801. Repeal of H-1B nonimmigrant classification.\
+Sec. 802. Transition rules for current H-1B nonimmigrants.\
+Sec. 803. Merit-based principles for employment-based immigration.
 
 ---
 
@@ -165,11 +172,9 @@ Sec. 607. Enforcement.
 
 **(b) Repeal of copyright laws.**—Title 17, United States Code, is repealed in its entirety.
 
-**(c) Transition.**—
+**(c) Transition.**-
 
-(1) Phase-out of existing rights.—Each existing patent, trademark, or copyright shall expire over a 5-year phase-out period beginning on the date of enactment of this Act, with protections reduced pro rata annually (for example, 80 percent in year 1, 60 percent in year 2, 40 percent in year 3, 20 percent in year 4, and 0 percent in year 5). No new patent, trademark, or copyright shall be issued or registered after the date of enactment of this Act. After full phase-out, intellectual property shall be protected only under common law principles of trade secrets and unfair competition.
-
-(2) Compensation fund.—The Secretary of the Treasury shall establish a compensation fund, funded primarily from proceeds of agency asset auctions under section 101(e), to provide just compensation to holders of existing intellectual property rights for the diminution in value caused by the phase-out under paragraph (1). Compensation shall be calculated based on fair market value as determined by independent appraisal, payable upon verified claims filed within 2 years after the date of enactment of this Act. If a court determines that additional compensation is constitutionally required beyond the resources of such fund, section 605 shall apply.
+(1) Phase-out of existing rights.-Each existing patent, trademark, or copyright shall expire over a 5-year phase-out period beginning on the date of enactment of this Act, with protections reduced pro rata annually (for example, 80 percent in year 1, 60 percent in year 2, 40 percent in year 3, 20 percent in year 4, and 0 percent in year 5). No new patent, trademark, or copyright shall be issued or registered after the date of enactment of this Act. After full phase-out, intellectual property shall be protected only under common law principles of trade secrets and unfair competition. Any compensation that may be constitutionally required as a result of the phase-out described in this paragraph shall be provided, if at all, only in accordance with section 605.
 
 ---
 
@@ -183,17 +188,17 @@ Sec. 607. Enforcement.
 
 ### SEC. 105. DEREGULATION OF HEALTH INSURANCE MARKETS
 
-**(a) Interstate commerce.**—Section 514 of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1144) is amended by adding at the end the following:
+**(a) Interstate commerce.**-Section 514 of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1144) is amended by adding at the end the following:
 
-"(d) Interstate health insurance.—
+"(d) Interstate health insurance.-
 
-"(1) In general.—No State may prohibit, or otherwise restrict through law or regulation, the offer or sale to its residents of a health insurance policy that is lawfully issued and regulated under the laws of another State, provided that the policy complies with the laws of the State of issuance.
+"(1) In general.-With respect to a health insurance policy that provides coverage for risks in more than one State or that is offered through the channels or instrumentalities of interstate commerce, no State may prohibit, or otherwise restrict through law or regulation, the offer or sale to its residents of such a policy that is lawfully issued and regulated under the laws of another State, provided that the policy complies with the laws of the State of issuance.
 
-"(2) Preservation of State authority over intrastate insurance.—Nothing in this subsection shall be construed to—
+"(2) Preservation of State authority over intrastate insurance.-Nothing in this subsection shall be construed to-
 
-"(A) limit a State’s authority to regulate insurers domiciled in that State or insurance coverage offered solely on an intrastate basis; or
+"(A) limit a State's authority to regulate insurers domiciled in that State or insurance coverage offered solely on an intrastate basis; or
 
-"(B) affect a State’s authority with respect to licensing, solvency, or receivership of insurers domiciled in that State.".
+"(B) affect a State's authority with respect to licensing, solvency, or receivership of insurers domiciled in that State, including the application of such requirements to policies described in paragraph (1), so long as such requirements do not discriminate against policies or insurers solely on the basis of State of issuance.".
 
 **(b) Price transparency.**—
 
@@ -267,9 +272,9 @@ For purposes of this title, any phase-out or transfer shall occur in accordance 
 
 **(f) Refund of payroll taxes.**—Section 3101 of the Internal Revenue Code of 1986 is amended by adding at the end the following new subsection:
 
-"(d) Refund of taxes collected after enactment of Economic Liberty and Fiscal Integrity Act of 2025.—
+"(d) Refund of taxes collected after enactment of Economic Liberty and Federal Renewal Act of 2025.-
 
-"(1) **In general.**—All taxes imposed by this section with respect to wages received after the date of the enactment of the Economic Liberty and Fiscal Integrity Act of 2025 and before January 1, 2026, shall be refunded quarterly to the employee and employer, as applicable, in equal shares.
+"(1) **In general.**-All taxes imposed by this section with respect to wages received after the date of the enactment of the Economic Liberty and Federal Renewal Act of 2025 and before January 1, 2026, shall be refunded quarterly to the employee and employer, as applicable, in equal shares.
 
 "(2) **Administration.**—The Secretary shall establish procedures for such refunds, including direct deposit or check issuance, not later than 90 days after the date of enactment of such Act.".
 
@@ -315,7 +320,7 @@ For purposes of this title, any phase-out or transfer shall occur in accordance 
 
 ### SEC. 203. ABOLITION AND REFORM OF FEDERAL WELFARE PROGRAMS
 
-**(a) Programs affected.**—Each of the following is repealed, effective as provided in this section:
+**(a) Programs affected.**-Each of the following is repealed, effective as provided in this section:
 
 (1) Title IV of the Social Security Act (Aid to Families with Dependent Children, now Temporary Assistance for Needy Families) (42 U.S.C. 601 et seq.).\
 (2) The Food Stamp Act of 1977 (7 U.S.C. 2011 et seq.).\
@@ -325,7 +330,9 @@ For purposes of this title, any phase-out or transfer shall occur in accordance 
 (6) Section 24 of the Internal Revenue Code of 1986 (relating to the child tax credit).\
 (7) All Federal education programs, including Pell Grants and title I funding under the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6301 et seq.).
 
-**(b) Block grants for residual aid.**—For the 5-year period beginning on the date of enactment of this Act, any State may apply for non-conditioned block grants totaling not more than 10 percent of prior fiscal year Federal spending on programs abolished under subsection (a), to be distributed as the States deem fit for temporary support through private charities or State-led initiatives. After the end of such 5-year period, all Federal welfare spending under the programs described in subsection (a) shall cease.
+**(b) Block grants for residual aid.**-For the 5-year period beginning on the date of enactment of this Act, any State may apply for non-conditioned block grants totaling not more than 10 percent of prior fiscal year Federal spending on programs abolished under subsection (a), to be distributed as the States deem fit for temporary support through private charities or State-led initiatives. After the end of such 5-year period, all Federal welfare spending under the programs described in subsection (a) shall cease.
+
+Such block grants are authorized solely as a temporary incident of the power to pay debts and obligations incurred under prior Acts of Congress and to provide for an orderly wind-down of programs repealed by this section, and shall not be construed to authorize any new permanent Federal welfare program or to expand the scope of the Spending Clause beyond its original public meaning.
 
 ---
 
@@ -371,7 +378,7 @@ For purposes of this title, any phase-out or transfer shall occur in accordance 
 
 **(d) Health savings accounts.**—Section 223 of the Internal Revenue Code of 1986 is amended by adding at the end the following new subsection:
 
-"(i) Medicare transition HSAs.—Contributions from Medicare vouchers under the Economic Liberty and Fiscal Integrity Act of 2025 shall be excluded from gross income and shall grow tax-deferred indefinitely. Distributions from such accounts for qualified medical expenses shall not be includible in gross income."
+"(i) Medicare transition HSAs.-Contributions from Medicare vouchers under the Economic Liberty and Federal Renewal Act of 2025 shall be excluded from gross income and shall grow tax-deferred indefinitely. Distributions from such accounts for qualified medical expenses shall not be includible in gross income."
 
 **(e) Regulations and implementation.**—
 
@@ -569,9 +576,17 @@ Initial rates shall be calibrated to generate revenues sufficient to offset the 
 
 ### SEC. 403. SOUND MONEY PRINCIPLES
 
-**(a) Currency competition.**—Private currencies, including gold-, silver-, or cryptocurrency-backed notes, may circulate freely as legal tender if voluntarily accepted by the parties to a transaction. Private currencies shall be enforceable as legal tender only in voluntary contracts, and nothing in this subsection shall be construed to compel any State to recognize any particular private currency as legal tender.
+**(a) Currency competition.**-Private currencies, including gold-, silver-, or cryptocurrency-backed notes or deposit claims, may circulate freely as media of exchange if voluntarily accepted by the parties to a transaction. Obligations denominated in such currencies shall be enforceable according to their terms in Federal courts and, subject to State law, in State courts, to the same extent as comparable obligations denominated in United States dollars, and nothing in this subsection shall be construed to-
 
-**(b) Treasury role.**—The Secretary of the Treasury may issue gold- or silver-backed certificates at market rates. For redemption purposes, the dollar shall initially be defined as a fixed weight of gold (1/35th of a troy ounce), subject to adjustment by Act of Congress to reflect market conditions. This subsection is enacted pursuant to the coinage power in article I, section 8, clause 5 of the Constitution.
+(1) alter the status of United States coins and currency as legal tender under section 5103 of title 31, United States Code; or\
+(2) require any State to provide a cause of action or remedy that the State does not generally make available for other contractual obligations; or\
+(3) compel any person or State to accept any particular private currency in satisfaction of a debt absent that person's or State's consent.
+
+**(b) Treasury role.**-The Secretary of the Treasury may issue gold- or silver-backed certificates at market rates. For redemption purposes, the dollar shall initially be defined as a fixed weight of gold (1/35th of a troy ounce), subject to adjustment by Act of Congress to reflect market conditions. This subsection is enacted pursuant to the coinage power in article I, section 8, clause 5 of the Constitution.
+
+**(c) Neutrality of Federal monetary intervention.**-Except as expressly authorized by Act of Congress enacted after the date of enactment of this Act, or as necessary to execute this Act, service obligations of the United States, or carry out sanctions, anti-money-laundering, or counterterrorism laws, no Federal agency may engage in open-market operations, targeted lending, asset purchases, guarantees, or other monetary interventions undertaken for the purpose of supporting or suppressing the market value, exchange rate, or circulation of any particular currency or class of currencies, including notes or deposits issued by private banks, as opposed to generally applicable operations conducted on neutral terms.
+
+**(d) Regulatory and tax neutrality.**-No regulation or tax administered by a Federal agency shall, solely by reason of the denomination of an obligation or transaction in a private currency described in subsection (a), impose a higher rate, more burdensome reporting requirement, or more restrictive condition than would apply to a comparable obligation or transaction denominated in United States dollars, except to the extent necessary to enforce generally applicable tax, anti-money-laundering, sanctions, or consumer-protection laws.
 
 ---
 
@@ -608,39 +623,17 @@ All tariffs, quotas, and trade barriers under the Tariff Act of 1930 (19 U.S.C. 
 
 ---
 
-### SEC. 504. FEDERAL TORT REFORM
-
-In civil actions in a United States district court arising under diversity jurisdiction and based on activity deregulated by this Act (including environmental, product liability, nuisance, or trespass harms to property), punitive damages shall not exceed three times the amount of compensatory damages awarded, and the losing party shall pay the prevailing party’s reasonable attorney’s fees. This section does not preempt State tort laws for purely intrastate matters.
-
----
-
 ### SEC. 505. ENCOURAGEMENT OF INTERSTATE COMPACTS FOR MULTI-STATE DISASTERS
 
 **(a) Findings.**—Congress finds that interstate compacts, such as the Emergency Management Assistance Compact, enable States to coordinate mutual aid for disasters without Federal intervention, promoting federalism and efficiency.
 
-**(b) Authorization and incentives.**—Congress hereby ratifies and encourages expansion of interstate compacts for disaster response and recovery. The Secretary of the Treasury may provide voluntary, non-conditioned matching grants, up to 50 percent of State investments, for States participating in such compacts to develop shared resources, training, or infrastructure, provided that no Federal conditions or oversight beyond such ratification apply.
+**(b) Authorization and incentives.**-Congress hereby ratifies and encourages expansion of interstate compacts for disaster response and recovery, particularly with respect to protecting the channels and instrumentalities of interstate commerce and critical infrastructure essential to the common defense. The Secretary of the Treasury may provide voluntary matching grants, up to 50 percent of State investments, for States participating in such compacts to develop shared resources, training, or infrastructure related to such interstate commerce and defense functions, subject to ordinary Federal fiscal, audit, and anti-fraud oversight but without additional substantive policy conditions on State programs beyond those expressly set forth in this section.
 
 **(c) Limitation.**—Federal disaster relief under existing law shall serve as a last resort only after State and interstate resources are exhausted, with priority given to compact-based responses.
 
 ---
 
-### SEC. 506. REFORM OF IMMIGRATION SYSTEM
-
-The Immigration and Nationality Act (8 U.S.C. 1101 et seq.) is amended as follows:
-
-(1) Section 101(a)(15)(H)(i)(b) (8 U.S.C. 1101(a)(15)(H)(i)(b)) is repealed.\
-(2) Section 203(b) (8 U.S.C. 1153(b)) is amended—
-
-(A) by striking the numerical limitations on employment-based immigrants from non-European countries and redesignating subsequent paragraphs accordingly; and\
-(B) by adding at the end the following new paragraph:
-
-"(6) Skilled immigration priority.—Employment-based immigrants shall be prioritized based on merit, including education, work experience, and economic contribution. No numerical caps shall apply to immigrants from European countries. Numerical caps on immigrants from other countries shall be reduced by 50 percent to rebalance the system.".
-
-**(b) Effective date.**—The amendments made by this section shall take effect on the date that is 180 days after the date of enactment of this Act.
-
----
-
-## TITLE VI—GENERAL PROVISIONS
+## TITLE VI-GENERAL PROVISIONS
 
 ### SEC. 601. EFFECTIVE DATES
 
@@ -658,6 +651,8 @@ If any provision of this Act, or the application of such provision to any person
 
 No repeal under this Act shall be construed to affect rights accrued or liabilities incurred prior to the effective date of such repeal. To the extent that any provision of this Act relying on the Commerce Clause is held invalid, authority to regulate the matter addressed by such provision shall revert to the States and the people, without any Federal fallback regulation.
 
+Nothing in this Act shall be construed to ratify or endorse any interpretation of the Commerce Clause or Spending Clause that extends beyond their original public meaning as understood at the time of the Constitution's ratification. To the extent a provision of this Act could be interpreted to depend on such an expanded interpretation, it shall be construed, if fairly possible, as an exercise of other enumerated powers or as limited to the regulation of the channels or instrumentalities of interstate or foreign commerce, the territories or property of the United States, or the payment of debts, rather than as a recognition of a general Federal police power.
+
 ---
 
 ### SEC. 604. BIPARTISAN IMPLEMENTATION COMMISSION AND SUNSET REVIEW
@@ -670,10 +665,13 @@ No repeal under this Act shall be construed to affect rights accrued or liabilit
 
 ### SEC. 605. CONTINGENT CONSTITUTIONAL SAFEGUARDS
 
-Notwithstanding section 103(c)(2), if a court of competent jurisdiction enters a final judgment holding that the phase-out of Federal intellectual property protections under section 103 effects a taking of property requiring just compensation under the Fifth Amendment to the Constitution in an amount that exceeds the resources available in the compensation fund established under section 103(c)(2), the Secretary of the Treasury shall—
+**(a) Trigger.**-If, after all appeals are exhausted, a court of competent jurisdiction enters a final judgment holding that the phase-out of Federal intellectual property protections under section 103 effects a taking of property requiring just compensation under the Fifth Amendment to the Constitution, the Secretary of the Treasury shall establish a compensation fund (in this section referred to as the "Fund") for the sole purpose of satisfying the compensation required by such judgment and any similar claims resolved in accordance with such judgment.
 
-(1) implement and administer such fund in accordance with section 103(c); and\
-(2) to the extent that proceeds from agency asset auctions under section 101(e) are insufficient to satisfy such constitutional obligation, pay any additional required amount from other funds in the general fund of the Treasury not otherwise obligated.
+**(b) Funding.**-The Fund shall be funded primarily from proceeds of agency asset auctions under section 101(e). To the extent that such proceeds are insufficient to satisfy the compensation required by final judgments described in subsection (a), the Secretary of the Treasury shall pay any additional required amount from other funds in the general fund of the Treasury not otherwise obligated.
+
+**(c) Claims and valuation.**-To the extent consistent with the judgment described in subsection (a), the Secretary of the Treasury shall by regulation prescribe procedures under which holders of existing patents, trademarks, or copyrights affected by the phase-out in section 103(c)(1) may file verified claims not later than 2 years after the date of such regulations. Compensation shall be calculated based on the fair market value of such rights as of the date of enactment of this Act, as determined by independent appraisal.
+
+**(d) No inference absent judgment.**-Nothing in this section shall be construed as a congressional finding that the phase-out described in section 103(c)(1) constitutes a taking of property requiring just compensation in the absence of a final judgment described in subsection (a).
 
 ---
 
@@ -694,3 +692,96 @@ In this Act:
 ### SEC. 607. ENFORCEMENT
 
 The Attorney General may enforce this Act and the amendments made by this Act through civil actions in an appropriate United States district court.
+
+---
+
+## TITLE VII-RIGHTS ENFORCEMENT AND JUDICIAL CAPACITY
+
+### SEC. 701. JUDICIAL CAPACITY AND CASE MANAGEMENT
+
+**(a) Judicial Conference study and recommendations.**-Not later than 1 year after the date of enactment of this Act, the Judicial Conference of the United States shall submit to Congress a report assessing the capacity of the courts of the United States to adjudicate promptly and fairly civil actions arising out of property rights, contract rights, and harms to persons or property that are expected to increase in the absence of Federal regulatory permitting schemes repealed by this Act, including actions alleging nuisance, trespass, or other invasions of property.
+
+**(b) Contents.**-The report under subsection (a) shall include- 
+
+(1) an assessment of current and projected caseloads in the district courts and courts of appeals relating to such actions, including diversity cases and cases arising under Federal law created or amended by this Act;\
+(2) recommendations, if warranted, for additional Article III judgeships or magistrate judge positions, including proposed allocations among districts and circuits; and\
+(3) best-practice recommendations for case management, including the use of specialized dockets or tracks for complex property and environmental harm cases, consistent with the Rules Enabling Act and the Federal Rules of Civil Procedure.
+
+**(c) Rulemaking authority preserved.**-Nothing in this section shall be construed to limit the authority of the Supreme Court of the United States or the Judicial Conference of the United States to prescribe general rules of practice and procedure under chapter 131 of title 28, United States Code, or to authorize any Federal court to create substantive rights or obligations by rule.
+
+---
+
+### SEC. 702. NO FEDERAL PERMIT AS DEFENSE TO PROPERTY CLAIMS
+
+**(a) General rule.**-Except as expressly provided by Act of Congress that clearly authorizes a taking of private property for public use and provides for just compensation, compliance with, or the existence of, any Federal permit, license, approval, or regulation (including any permit, license, approval, or regulation issued under a statute repealed by this Act) shall not be construed to- 
+
+(1) authorize a trespass, nuisance, or other invasion of private property; or\
+(2) bar, preempt, or otherwise limit any claim for relief under applicable State or Federal law seeking damages, injunctive relief, or other remedies for such invasion.
+
+**(b) Savings for sovereign immunity and takings claims.**-Nothing in this section shall be construed to- 
+
+(1) waive the sovereign immunity of the United States or any State, except to the extent otherwise provided by law; or\
+(2) affect any claim for just compensation under the Fifth Amendment to the Constitution or any similar provision of State law.
+
+---
+
+### SEC. 703. PRESERVATION OF STATE TORT AND PROPERTY LAW
+
+**(a) No implied preemption.**-Except as expressly provided in this Act, nothing in this Act shall be construed to preempt or displace State law causes of action in tort, contract, or property, including actions for nuisance, trespass, negligence, strict liability, or other harms to persons or property.
+
+**(b) Choice of law.**-In civil actions in a United States district court that are before the court solely by reason of diversity jurisdiction under section 1332 of title 28, United States Code, and that allege harms to persons or property arising from activity deregulated by this Act, the court shall apply the substantive law that would apply in the courts of the State in which the court is located, including that State's choice-of-law rules, to the same extent as in other diversity cases.
+
+**(c) No creation of Federal common law.**-Nothing in this Act shall be construed to create a general Federal common law of torts or property. To the extent that a Federal common law cause of action may otherwise exist under current precedents of the Supreme Court of the United States (including in cases involving interstate pollution or disputes among States), nothing in this Act shall be construed to expand the scope of such precedents.
+
+---
+
+### SEC. 704. LIMITED FEDERAL JURISDICTION FOR INTERSTATE NUISANCE AND TRESPASS
+
+**(a) Jurisdiction.**-In addition to any other jurisdiction conferred by law, the district courts shall have original jurisdiction of any civil action-
+
+(1) between citizens of different States or between a State or its citizens and foreign citizens or subjects;\
+(2) seeking relief for nuisance, trespass, or similar continuing invasions of real property; and\
+(3) alleging that the primary injurious conduct or its effects cross State lines through the channels or instrumentalities of interstate or foreign commerce.
+
+**(b) No new cause of action.**-This section confers jurisdiction only and shall not be construed to create any new cause of action or to alter the substantive elements or defenses available under applicable State or Federal law.
+
+**(c) Abstention.**-Nothing in this section shall be construed to limit the ability of a district court to abstain from exercising jurisdiction in accordance with otherwise applicable abstention doctrines.
+
+---
+
+## TITLE VIII-IMMIGRATION REFORM
+
+### SEC. 801. REPEAL OF H-1B NONIMMIGRANT CLASSIFICATION
+
+**(a) In general.**-Section 101(a)(15)(H)(i)(b) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(15)(H)(i)(b)) is repealed, and any reference in Federal law to a nonimmigrant described in such section shall have no effect on or after the effective date specified in subsection (c), except as provided in section 802.
+
+**(b) Conforming repeals.**-Any provision of law that by its terms applies exclusively to nonimmigrants described in section 101(a)(15)(H)(i)(b) of the Immigration and Nationality Act is repealed, effective on the date specified in subsection (c), to the extent of such exclusive application.
+
+**(c) Effective date.**-The repeals made by this section shall take effect on the date that is 180 days after the date of enactment of this Act.
+
+---
+
+### SEC. 802. TRANSITION RULES FOR CURRENT H-1B NONIMMIGRANTS
+
+**(a) Continuation of status until expiration.**-Notwithstanding section 801, any alien who, on the day before the effective date specified in section 801(c), is lawfully present in the United States in a nonimmigrant status described in section 101(a)(15)(H)(i)(b) of the Immigration and Nationality Act may remain in such status, and the terms and conditions of such status (including employment authorization with the petitioning employer and any dependent status) shall continue to apply, until the earlier of- 
+
+(1) the expiration date of the alien's authorized period of stay, as indicated on the Form I-94 or successor document; or\
+(2) the date that is 3 years after the effective date specified in section 801(c).
+
+**(b) No extensions or new petitions.**-On and after the effective date specified in section 801(c), the Secretary of Homeland Security may not approve any new petition for, or extension of, nonimmigrant status under section 101(a)(15)(H)(i)(b) of the Immigration and Nationality Act.
+
+**(c) Change or adjustment of status.**-Nothing in this title shall be construed to prohibit an alien described in subsection (a) from seeking or obtaining, in accordance with otherwise applicable law, a change of status to another nonimmigrant classification or adjustment of status to that of an alien lawfully admitted for permanent residence.
+
+---
+
+### SEC. 803. MERIT-BASED PRINCIPLES FOR EMPLOYMENT-BASED IMMIGRATION
+
+**(a) Sense of Congress.**-It is the sense of Congress that, consistent with the Naturalization Clause in article I, section 8, clause 4 of the Constitution and the power to regulate foreign commerce, employment-based immigration should prioritize merit, including education, work experience, lawful wages, and economic contribution, and should operate without discrimination based on race, religion, or national origin.
+
+**(b) Regulations and report.**-Not later than 2 years after the date of enactment of this Act, the Secretary of Homeland Security, in consultation with the Secretary of Labor, shall- 
+
+(1) review regulations implementing section 203(b) of the Immigration and Nationality Act (8 U.S.C. 1153(b)) and related provisions governing employment-based immigrant visas; and\
+(2) submit to Congress a report describing- 
+
+(A) recommended statutory changes, if any, to better align employment-based immigration with the merit-based principles set forth in subsection (a), including the reduction of opportunities for abuse by petitioning employers; and\
+(B) options to simplify and accelerate employment-based immigrant visa processing so that employers who truly need skilled workers may sponsor them for lawful permanent residence, rather than relying on long-term temporary nonimmigrant classifications.
