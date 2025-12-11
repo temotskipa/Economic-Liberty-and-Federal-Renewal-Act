@@ -127,7 +127,7 @@ Sec. 607. Enforcement.
 
 **(c) Social Security Administration.**—The Social Security Administration is abolished upon completion of the privatization and benefit-payment transitions described in section 201, and all remaining records of that Administration shall be transferred to the Department of the Treasury.
 
-**(d) Transfer of essential functions.**—Each national security-related function of an abolished agency or department, including any function specified in section 301(f) or 305 of the National Security Act of 1947 (50 U.S.C. 3041(f); 3045) and any function expressly preserved in this Act, shall be transferred to the Department of Defense or such other Federal department as the President may designate, not later than 180 days after the effective date of the abolition of such agency or department. Any other function shall cease.
+**(d) Transfer of essential functions.**-Each national security-related function of an abolished agency or department, including any function relating to intelligence, defense, or foreign affairs under the National Security Act of 1947 (50 U.S.C. 3001 et seq.) or other Acts of Congress, and any function expressly preserved in this Act, shall be transferred to the Department of Defense or such other Federal department as the President may designate, not later than 180 days after the effective date of the abolition of such agency or department. Any other function shall cease.
 
 **(e) Disposition of assets and funds.**—The Comptroller General of the United States shall provide for the orderly disposition, by auction or other sale, of the real and personal property of each agency or department abolished under this section. Net proceeds from any such sale shall be deposited in the general fund of the Treasury. Unobligated balances of appropriations for such agencies and departments shall revert to the general fund of the Treasury.
 
@@ -150,7 +150,7 @@ Sec. 607. Enforcement.
 (11) The Securities Act of 1933 (15 U.S.C. 77a et seq.).\
 (12) The Securities Exchange Act of 1934 (15 U.S.C. 78a et seq.).
 
-**(b) General repeal of regulatory authority.**—Title 5, United States Code (Government Organization and Employees), subtitle B of title I of the Department of Labor Act (29 U.S.C. 551 et seq.), and any other provision of law granting regulatory rulemaking authority to an executive agency, except a provision related exclusively to national defense or foreign affairs, are repealed to the extent that such a provision authorizes regulations governing private economic activity.
+**(b) General repeal of regulatory authority.**-Title 5, United States Code (Government Organization and Employees), including subchapter II of chapter 5 (5 U.S.C. 551 et seq.; commonly known as the "Administrative Procedure Act"), and any other provision of law granting regulatory rulemaking authority to an executive agency, except a provision related exclusively to national defense or foreign affairs, are repealed to the extent that such a provision authorizes regulations governing private economic activity.
 
 **(c) No revival of preempted State law.**—The repeal of a Federal statute under this section shall not be construed to revive any State law that was preempted by such statute; nothing in this subsection limits the authority of a State to enact or reenact its own laws in the absence of Federal preemption.
 
@@ -299,11 +299,17 @@ For purposes of this title, any phase-out or transfer shall occur in accordance 
 
 ### SEC. 202. IMPLEMENTATION OF AGENCY ABOLITIONS
 
-**(a) Cross-reference to abolitions.**—The abolition of specified Federal agencies and departments is provided in section 101. This section governs personnel, records, and implementation matters not otherwise addressed in this Act.
+**(a) Cross-reference to abolitions.**-The abolition of specified Federal agencies and departments is provided in section 101. This section governs personnel, records, and implementation matters not otherwise addressed in this Act.
 
-**(b) Personnel.**—Personnel of departments and agencies abolished under section 101 may be reassigned to remaining departments or agencies at the discretion of the President, subject to otherwise applicable law.
+**(b) Personnel.**-Personnel of departments and agencies abolished under section 101 may be reassigned to remaining departments or agencies at the discretion of the President, subject to otherwise applicable law.
 
-**(c) Records.**—To the extent not otherwise provided in this Act, records of departments and agencies abolished under section 101 shall be transferred to such remaining departments or agencies as the President may designate.
+**(c) Records.**-To the extent not otherwise provided in this Act, records of departments and agencies abolished under section 101 shall be transferred to such remaining departments or agencies as the President may designate.
+
+**(d) Pending proceedings.**-Any administrative or judicial proceeding commenced by or against a department or agency abolished under section 101 before the effective date of abolition shall not abate by reason of such abolition, but shall continue with the United States or such successor department or agency as the President designates substituted as the party as appropriate, until such proceeding is concluded or dismissed.
+
+**(e) Contracts and obligations.**-Valid contracts, grants, loans, and other binding obligations of a department or agency abolished under section 101 that are in effect on the effective date of abolition shall remain in force according to their terms, subject to any express repeal or limitation in this Act and to appropriations Acts, and shall be administered by the successor department or agency designated by the President or, if none, by the Department of the Treasury.
+
+**(f) Implementation guidance.**-Not later than 180 days after the date of enactment of this Act, the Director of the Office of Management and Budget, in consultation with the Director of the Office of Personnel Management and the heads of affected departments and agencies, shall issue guidance to implement sections 101 and 202, including guidance on workforce transition, records management, and the orderly wind-down of programs, consistent with the repeals and abolitions in this Act.
 
 ---
 
@@ -529,9 +535,15 @@ Initial rates shall be calibrated to generate revenues sufficient to offset the 
 
 ### SEC. 303. ADMINISTRATION AND ENFORCEMENT
 
-**(a) Oversight.**—The Internal Revenue Service is redesignated as the Value-Added Tax Administration and shall administer and enforce this title.
+**(a) Oversight.**-The Internal Revenue Service is redesignated as the Value-Added Tax Administration and shall administer and enforce this title.
 
-**(b) Remittances.**—Sellers shall remit VAT on a quarterly basis, with credits for allowable business inputs. If a seller fails to remit the tax due, the Value-Added Tax Administration may impose a penalty not exceeding 5 percent of the unpaid liability, recoverable through a civil action in an appropriate United States district court.
+**(b) Remittances.**-Sellers shall remit VAT on a quarterly basis, with credits for allowable business inputs. If a seller fails to remit the tax due, the Value-Added Tax Administration may impose a penalty not exceeding 5 percent of the unpaid liability, recoverable through a civil action in an appropriate United States district court, in addition to any applicable penalties under the Internal Revenue Code of 1986.
+
+**(c) Application of internal revenue laws.**-Except as otherwise provided in this Act, the provisions of subtitle F of the Internal Revenue Code of 1986 (26 U.S.C. 6001 et seq.), including sections 6001, 6011, 6201, 6301, chapters 64 and 75, and section 7801, shall apply to the VAT and to persons liable for VAT as if the VAT were a tax imposed by subtitle D of such Code.
+
+**(d) Confidentiality and disclosure.**-Sections 6103 and 6104 of the Internal Revenue Code of 1986 shall apply to returns and return information related to the VAT in the same manner as such sections apply to other taxes imposed by such Code.
+
+**(e) Regulations.**-The Secretary of the Treasury may prescribe such regulations and other guidance as may be necessary or appropriate to carry out this title, including rules governing registration, filing thresholds, electronic reporting, audits, and collection, and may delegate such authority to the head of the Value-Added Tax Administration.
 
 ---
 
@@ -539,9 +551,11 @@ Initial rates shall be calibrated to generate revenues sufficient to offset the 
 
 ### SEC. 401. ABOLITION OF THE FEDERAL RESERVE SYSTEM
 
-**(a) In general.**—The Federal Reserve Act (12 U.S.C. 221 et seq.) is repealed in its entirety, effective on the date that is 2 years after the date of enactment of this Act.
+**(a) In general.**-The Federal Reserve Act (12 U.S.C. 221 et seq.) is repealed in its entirety, effective on the date that is 2 years after the date of enactment of this Act.
 
-**(b) Termination.**—On and after the effective date specified in subsection (a), the Board of Governors of the Federal Reserve System and all Federal Reserve Banks are abolished. All assets of the Board and the Federal Reserve Banks shall be liquidated, and net proceeds shall be deposited in the Treasury of the United States. Any remaining officers or members of the Board may be removed by the President or the Secretary of the Treasury at any time.
+**(b) Termination.**-On and after the effective date specified in subsection (a), the Board of Governors of the Federal Reserve System and all Federal Reserve Banks are abolished. All assets of the Board and the Federal Reserve Banks shall be liquidated, and net proceeds shall be deposited in the Treasury of the United States. Any remaining officers or members of the Board may be removed by the President or the Secretary of the Treasury at any time.
+
+**(c) Continuity of legal tender and payment systems.**-Nothing in this section shall be construed to alter the status of United States coins and currency as legal tender under section 5103 of title 31, United States Code. On and after the effective date of the repeal under subsection (a), Federal Reserve notes outstanding shall be treated as obligations of the United States issued under chapter 51 of title 31 and shall remain legal tender until retired, redeemed, or replaced pursuant to procedures prescribed by the Secretary of the Treasury. The Secretary of the Treasury shall ensure an orderly transition of payment, clearing, and settlement functions previously performed by the Board of Governors of the Federal Reserve System and the Federal Reserve Banks.
 
 ---
 
