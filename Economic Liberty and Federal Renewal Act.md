@@ -16,22 +16,23 @@ To liberate the American economy from burdensome federal regulations that dispro
 
 Sec. 1. Short title; table of contents.\
 Sec. 2. Findings and purposes.\
-**TITLE I—REPEALS AND ECONOMIC DEREGULATION**\
+**TITLE I-REPEALS AND ECONOMIC DEREGULATION**\
 Sec. 101. Abolition of federal agencies and departments.\
 Sec. 102. Repeal of major regulatory statutes.\
 Sec. 103. Abolition of intellectual property monopolies.\
 Sec. 104. Deregulation of labor markets.\
-Sec. 105. Deregulation of health insurance markets.\
+Sec. 105. Firearms deregulation and abolition of the ATF.\
 Sec. 106. Transitional rules.\
-**TITLE II—FEDERAL BUDGET REFORMS**\
+**TITLE II-FEDERAL BUDGET REFORMS**\
 Sec. 201. Privatization of Social Security.\
 Sec. 202. Implementation of agency abolitions.\
 Sec. 203. Abolition and reform of federal welfare programs.\
 Sec. 204. Balanced budget requirement.\
 Sec. 205. Privatization of Medicare.\
 Sec. 206. Defense spending cap and audits.\
-Sec. 207. Transitional rules.\
-**TITLE III—TAX SYSTEM REFORM**\
+Sec. 207. Privatization of federal state-owned enterprises.\
+Sec. 208. Transitional rules.\
+**TITLE III-TAX SYSTEM REFORM**\
 Sec. 301. Abolition of all existing federal taxes.\
 Sec. 302. Establishment of tiered value-added tax.\
 Sec. 303. Administration and enforcement.\
@@ -136,7 +137,7 @@ Sec. 804. Technical and conforming amendments.
 
 **(d) Transfer of essential functions.**-Each national security-related function of an abolished agency or department, including any function relating to intelligence, defense, or foreign affairs under the National Security Act of 1947 (50 U.S.C. 3001 et seq.) or other Acts of Congress, and any function expressly preserved in this Act, shall be transferred to the Department of Defense or such other Federal department as the President may designate, not later than 180 days after the effective date of the abolition of such agency or department. Any other function shall cease.
 
-**(e) Disposition of assets and funds.**—The Comptroller General of the United States shall provide for the orderly disposition, by auction or other sale, of the real and personal property of each agency or department abolished under this section. Net proceeds from any such sale shall be deposited in the general fund of the Treasury. Unobligated balances of appropriations for such agencies and departments shall revert to the general fund of the Treasury.
+**(e) Disposition of assets and funds.**-The Administrator of General Services, in consultation with the Director of the Office of Management and Budget and the Secretary of the Treasury, shall provide for the orderly disposition, by auction or other sale, of the real and personal property of each agency or department abolished under this section. Net proceeds from any such sale shall be deposited in the general fund of the Treasury. Unobligated balances of appropriations for such agencies and departments shall revert to the general fund of the Treasury.
 
 ---
 
@@ -144,22 +145,20 @@ Sec. 804. Technical and conforming amendments.
 
 **(a) Repeals.**—Each of the following statutes, and each amendment made by such statutes, is repealed in its entirety:
 
-(1) The Clean Air Act (42 U.S.C. 7401 et seq.).\
-(2) The Federal Water Pollution Control Act (commonly known as the "Clean Water Act") (33 U.S.C. 1251 et seq.).\
+(1) The Clean Air Act of 1963 (42 U.S.C. 7401 et seq.).\
+(2) The Federal Water Pollution Control Act of 1972 (commonly known as the "Clean Water Act") (33 U.S.C. 1251 et seq.).\
 (3) The Occupational Safety and Health Act of 1970 (29 U.S.C. 651 et seq.).\
-(4) The Consumer Product Safety Act (15 U.S.C. 2051 et seq.).\
+(4) The Consumer Product Safety Act of 1972 (15 U.S.C. 2051 et seq.).\
 (5) The Federal Trade Commission Act (15 U.S.C. 41 et seq.).\
-(6) The Natural Gas Act (15 U.S.C. 717 et seq.).\
+(6) The Natural Gas Act of 1938 (15 U.S.C. 717 et seq.).\
 (7) The Federal Mine Safety and Health Act of 1977 (30 U.S.C. 801 et seq.).\
-(8) The National Labor Relations Act (29 U.S.C. 151 et seq.).\
-(9) The Federal Food, Drug, and Cosmetic Act (21 U.S.C. 301 et seq.).\
+(8) The National Labor Relations Act of 1935 (29 U.S.C. 151 et seq.).\
+(9) The Federal Food, Drug, and Cosmetic Act of 1938 (21 U.S.C. 301 et seq.).\
 (10) The Communications Act of 1934 (47 U.S.C. 151 et seq.).\
 (11) The Securities Act of 1933 (15 U.S.C. 77a et seq.).\
-(12) The Securities Exchange Act of 1934 (15 U.S.C. 78a et seq.).
-
-**(b) General repeal of regulatory authority.**-Title 5, United States Code (Government Organization and Employees), including subchapter II of chapter 5 (5 U.S.C. 551 et seq.; commonly known as the "Administrative Procedure Act"), and any other provision of law granting regulatory rulemaking authority to an executive agency, except a provision related exclusively to national defense or foreign affairs, are repealed to the extent that such a provision authorizes regulations governing private economic activity. Nothing in this subsection shall be construed to repeal or limit any authority to prescribe regulations expressly required or authorized by this Act.
-
-**(c) No revival of preempted State law.**—The repeal of a Federal statute under this section shall not be construed to revive any State law that was preempted by such statute; nothing in this subsection limits the authority of a State to enact or reenact its own laws in the absence of Federal preemption.
+(12) The Securities Exchange Act of 1934 (15 U.S.C. 78a et seq.).\
+(13) The National Firearms Act (26 U.S.C. 5801 et seq.).\
+(14) Chapter 44 of title 18, United States Code (18 U.S.C. 921 et seq.; commonly known as the "Gun Control Act of 1968" and related amendments).
 
 ---
 
@@ -182,31 +181,19 @@ Sec. 804. Technical and conforming amendments.
 
 **(a) Abolition of minimum wage.**—Section 6 of the Fair Labor Standards Act of 1938 (29 U.S.C. 206) is repealed, and sections 7 through 17 of such Act (29 U.S.C. 207 et seq.) are redesignated as sections 6 through 16, respectively.
 
-**(b) Repeal of overtime mandates.**—Section 7 of the Fair Labor Standards Act of 1938 (29 U.S.C. 207), as redesignated by subsection (a), is repealed, and sections 8 through 16 of such Act (29 U.S.C. 208 et seq.), as redesignated by subsection (a), are redesignated as sections 7 through 15, respectively.
+**(b) Repeal of overtime mandates.**-Section 7 of the Fair Labor Standards Act of 1938 (29 U.S.C. 207), as redesignated by subsection (a), is repealed, and sections 8 through 16 of such Act (29 U.S.C. 208 et seq.), as redesignated by subsection (a), are redesignated as sections 7 through 15, respectively.
 
 ---
 
-### SEC. 105. DEREGULATION OF HEALTH INSURANCE MARKETS
+### SEC. 105. FIREARMS DEREGULATION AND ABOLITION OF THE ATF
 
-**(a) Interstate commerce.**-Section 514 of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1144) is amended by adding at the end the following:
+**(a) Abolition of the Bureau of Alcohol, Tobacco, Firearms and Explosives.**-Effective on the date of enactment of this Act, the Bureau of Alcohol, Tobacco, Firearms and Explosives (commonly known as "ATF") is abolished.
 
-"(d) Interstate health insurance.-
+**(b) Termination of firearms regulatory functions.**-Any function of ATF that exists solely to administer or enforce a provision of law repealed by section 102(a)(13) or 102(a)(14) shall terminate on the effective date of such repeal.
 
-"(1) In general.-With respect to a health insurance policy that provides coverage for risks in more than one State or that is offered through the channels or instrumentalities of interstate commerce, no State may prohibit, or otherwise restrict through law or regulation, the offer or sale to its residents of such a policy that is lawfully issued and regulated under the laws of another State, provided that the policy complies with the laws of the State of issuance.
+**(c) Transfer of remaining functions.**-Any remaining function of ATF not terminated under subsection (b) shall be transferred to the Department of Justice, to be carried out by the Federal Bureau of Investigation or such other component as the Attorney General may designate, not later than 180 days after the date of enactment of this Act.
 
-"(2) Preservation of State authority over intrastate insurance.-Nothing in this subsection shall be construed to-
-
-"(A) limit a State's authority to regulate insurers domiciled in that State or insurance coverage offered solely on an intrastate basis; or
-
-"(B) affect a State's authority with respect to licensing, solvency, or receivership of insurers domiciled in that State, including the application of such requirements to policies described in paragraph (1), so long as such requirements do not discriminate against policies or insurers solely on the basis of State of issuance.".
-
-**(b) Price transparency.**—
-
-(1) Regulations.-Not later than 180 days after the date of enactment of this Act, and before the effective date of the abolition of the Department of Health and Human Services under section 101(b)(6), the Secretary of Health and Human Services shall issue regulations requiring each health care provider that is licensed under Federal law to disclose, in advance of the provision of services, the prices charged for such services.
-
-(2) Enforcement.—A person receiving services from a provider described in paragraph (1) may enforce the disclosure requirement created by this subsection through an action under applicable State or Federal law, including common law causes of action.
-
-(3) Continuity after abolition of department.-The regulations issued under paragraph (1) shall remain in effect according to their terms notwithstanding the abolition of the Department of Health and Human Services under section 101(b)(6), and any reference in such regulations to the Secretary of Health and Human Services shall be deemed a reference to the Secretary of the Treasury.
+**(d) References.**-A reference in any Federal law, regulation, order, or other document to ATF or to the Director of ATF shall be deemed to refer to the Attorney General or to the officer or employee of the Department of Justice to whom the function is assigned under subsection (c).
 
 ---
 
@@ -414,7 +401,31 @@ Such block grants are authorized solely as a temporary incident of the power to 
 
 ---
 
-### SEC. 207. TRANSITIONAL RULES
+### SEC. 207. PRIVATIZATION OF FEDERAL STATE-OWNED ENTERPRISES
+
+**(a) Definitions.**-In this section:
+
+(1) The term "Federal state-owned enterprise" means any entity that is owned or controlled by the United States and engages primarily in commercial activity, including-
+
+(A) any wholly owned Government corporation or mixed-ownership Government corporation (as those terms are defined in section 9101 of title 31, United States Code);\
+(B) the United States Postal Service (39 U.S.C. 201); and\
+(C) the National Railroad Passenger Corporation (Amtrak) (49 U.S.C. 24301).
+
+(2) The term does not include an entity whose principal functions relate exclusively to national defense, intelligence, or foreign affairs.
+
+**(b) In general.**-Not later than 2 years after the date of enactment of this Act, the Secretary of the Treasury, in consultation with the Administrator of General Services and the head of any department or agency with primary oversight of a Federal state-owned enterprise, shall complete the privatization of each Federal state-owned enterprise, including through competitive sale, transfer, liquidation, or other disposition, in a manner that-
+
+(1) maximizes net proceeds to the Treasury through a transparent and competitive process;\
+(2) does not confer any exclusive Federal franchise, monopoly, or regulatory privilege on the purchaser or any successor entity; and\
+(3) is conducted consistent with applicable law governing Federal property and contracts.
+
+**(c) Termination of postal monopoly.**-The Private Express Statutes (18 U.S.C. 1693 et seq. and 39 U.S.C. 601 et seq.) are repealed, effective on the date of enactment of this Act.
+
+**(d) Proceeds.**-Net proceeds from privatizations under this section shall be deposited in the general fund of the Treasury.
+
+---
+
+### SEC. 208. TRANSITIONAL RULES
 
 For purposes of this title, any phase-out, transfer, or privatization shall occur in accordance with the timing specified in the applicable section, with temporary provisions ceasing upon completion to avoid cluttering existing law. Phase-outs shall encourage State adoption of equivalent programs without Federal conditions.
 
