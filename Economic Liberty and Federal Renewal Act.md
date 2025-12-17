@@ -22,7 +22,8 @@ Sec. 102. Repeal of major regulatory statutes.\
 Sec. 103. Abolition of intellectual property monopolies.\
 Sec. 104. Deregulation of labor markets.\
 Sec. 105. Firearms deregulation and abolition of the ATF.\
-Sec. 106. Transitional rules.\
+Sec. 106. Transportation security deregulation and abolition of the TSA.\
+Sec. 107. Transitional rules.\
 **TITLE II-FEDERAL BUDGET REFORMS**\
 Sec. 201. Privatization of Social Security.\
 Sec. 202. Implementation of agency abolitions.\
@@ -120,12 +121,12 @@ Sec. 804. Technical and conforming amendments.
 (9) The Mine Safety and Health Administration.\
 (10) The National Labor Relations Board.
 
-**(b) Executive departments and cultural entities.**—Effective on the date that is 180 days after the date of enactment of this Act, each of the following departments and agencies, and each subordinate bureau thereof, is abolished:
+**(b) Executive departments and cultural entities.**-Effective on the date that is 180 days after the date of enactment of this Act, each of the following departments and agencies, and each subordinate bureau thereof, is abolished:
 
 (1) The Department of Education.\
 (2) The Department of Housing and Urban Development.\
 (3) The Department of Energy (except nuclear defense functions under sections 91 through 98 of the Atomic Energy Act of 1954 (42 U.S.C. 2121 et seq.), which are transferred to the Department of Defense).\
-(4) The Department of Transportation (except that the functions of the Federal Aviation Administration under sections 40101 through 40125 of title 49, United States Code, relating to air security are transferred to the Department of Defense).\
+(4) The Department of Transportation.\
 (5) The Department of Agriculture (except essential national defense or food safety functions, as designated by the President, which are transferred to the Department of Defense or to the States).\
 (6) The Department of Health and Human Services (except essential national defense functions, as designated by the President, which are transferred to the Department of Defense or to the States).\
 (7) The National Endowment for the Arts.\
@@ -158,7 +159,9 @@ Sec. 804. Technical and conforming amendments.
 (11) The Securities Act of 1933 (15 U.S.C. 77a et seq.).\
 (12) The Securities Exchange Act of 1934 (15 U.S.C. 78a et seq.).\
 (13) The National Firearms Act (26 U.S.C. 5801 et seq.).\
-(14) Chapter 44 of title 18, United States Code (18 U.S.C. 921 et seq.; commonly known as the "Gun Control Act of 1968" and related amendments).
+(14) Chapter 44 of title 18, United States Code (18 U.S.C. 921 et seq.; commonly known as the "Gun Control Act of 1968" and related amendments).\
+(15) Section 114 of title 49, United States Code (relating to the Transportation Security Administration).\
+(16) Chapter 449 of title 49, United States Code (relating to aviation security).
 
 ---
 
@@ -197,7 +200,23 @@ Sec. 804. Technical and conforming amendments.
 
 ---
 
-### SEC. 106. TRANSITIONAL RULES
+### SEC. 106. TRANSPORTATION SECURITY DEREGULATION AND ABOLITION OF THE TSA
+
+**(a) Transportation Security Administration.**-Effective on the date specified in subsection (c), the Transportation Security Administration (referred to in this section as "TSA") is abolished.
+
+**(b) No Federal passenger-screening mandate.**-On and after the effective date specified in subsection (c), no Federal law shall require passenger screening or baggage screening by a Federal agency as a condition of travel on a common carrier by air. Nothing in this subsection shall be construed to limit the authority of an airport operator, aircraft operator, or other private carrier to impose screening or other conditions of carriage pursuant to contract.
+
+**(c) Effective date.**-The repeal of law made by section 102(a)(15) and section 102(a)(16), and the abolition under subsection (a), shall take effect on the date that is 180 days after the date of enactment of this Act.
+
+**(d) Savings for border, criminal, and defense authorities.**-Nothing in this section shall be construed to repeal or limit authority to-
+
+(1) conduct inspections or searches at the international border or its functional equivalent under otherwise applicable law;\
+(2) investigate or prosecute criminal offenses, including offenses relating to aircraft piracy, sabotage, or terrorism; or\
+(3) provide for the common defense and protection of Federal property under otherwise applicable law.
+
+---
+
+### SEC. 107. TRANSITIONAL RULES
 
 For purposes of this title, any phase-out or transfer shall occur in accordance with the timing specified in the applicable section, with temporary provisions ceasing upon completion to avoid cluttering existing law. Phase-outs shall encourage State adoption of equivalent programs without Federal conditions.
 
@@ -422,6 +441,8 @@ Such block grants are authorized solely as a temporary incident of the power to 
 **(c) Termination of postal monopoly.**-The Private Express Statutes (18 U.S.C. 1693 et seq. and 39 U.S.C. 601 et seq.) are repealed, effective on the date of enactment of this Act.
 
 **(d) Proceeds.**-Net proceeds from privatizations under this section shall be deposited in the general fund of the Treasury.
+
+**(e) Identification and plan.**-Not later than 180 days after the date of enactment of this Act, the Secretary of the Treasury shall publish in the Federal Register a list of the entities that the Secretary determines are Federal state-owned enterprises for purposes of this section, together with a brief description of the planned method and timeline for privatization of each such enterprise.
 
 ---
 
