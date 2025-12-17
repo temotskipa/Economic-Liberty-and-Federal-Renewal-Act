@@ -43,15 +43,14 @@ Sec. 403. Sound money principles.\
 Sec. 501. Abolition of federal subsidies and corporate welfare.\
 Sec. 502. Deregulation of interstate commerce.\
 Sec. 503. Promotion of free trade.\
-Sec. 505. Encouragement of interstate compacts for multi-state disasters.\
+Sec. 504. Encouragement of interstate compacts for multi-state disasters.\
 **TITLE VI-GENERAL PROVISIONS**\
 Sec. 601. Effective dates.\
 Sec. 602. Severability.\
 Sec. 603. Savings provisions.\
-Sec. 604. Bipartisan implementation commission and sunset review.\
-Sec. 605. Contingent constitutional safeguards.\
-Sec. 606. Definitions.\
-Sec. 607. Enforcement.
+Sec. 604. Contingent constitutional safeguards.\
+Sec. 605. Definitions.\
+Sec. 606. Enforcement.
 **TITLE VII-RIGHTS ENFORCEMENT AND JUDICIAL CAPACITY**\
 Sec. 701. Judicial capacity and case management.\
 Sec. 702. No Federal permit as defense to property claims.\
@@ -60,7 +59,8 @@ Sec. 704. Limited Federal jurisdiction for interstate nuisance and trespass.
 **TITLE VIII-IMMIGRATION REFORM**\
 Sec. 801. Repeal of H-1B nonimmigrant classification.\
 Sec. 802. Transition rules for current H-1B nonimmigrants.\
-Sec. 803. Merit-based principles for employment-based immigration.
+Sec. 803. Comprehensive points-based immigration system.
+Sec. 804. Technical and conforming amendments.
 
 ---
 
@@ -157,7 +157,7 @@ Sec. 803. Merit-based principles for employment-based immigration.
 (11) The Securities Act of 1933 (15 U.S.C. 77a et seq.).\
 (12) The Securities Exchange Act of 1934 (15 U.S.C. 78a et seq.).
 
-**(b) General repeal of regulatory authority.**-Title 5, United States Code (Government Organization and Employees), including subchapter II of chapter 5 (5 U.S.C. 551 et seq.; commonly known as the "Administrative Procedure Act"), and any other provision of law granting regulatory rulemaking authority to an executive agency, except a provision related exclusively to national defense or foreign affairs, are repealed to the extent that such a provision authorizes regulations governing private economic activity.
+**(b) General repeal of regulatory authority.**-Title 5, United States Code (Government Organization and Employees), including subchapter II of chapter 5 (5 U.S.C. 551 et seq.; commonly known as the "Administrative Procedure Act"), and any other provision of law granting regulatory rulemaking authority to an executive agency, except a provision related exclusively to national defense or foreign affairs, are repealed to the extent that such a provision authorizes regulations governing private economic activity. Nothing in this subsection shall be construed to repeal or limit any authority to prescribe regulations expressly required or authorized by this Act.
 
 **(c) No revival of preempted State law.**—The repeal of a Federal statute under this section shall not be construed to revive any State law that was preempted by such statute; nothing in this subsection limits the authority of a State to enact or reenact its own laws in the absence of Federal preemption.
 
@@ -172,9 +172,9 @@ Sec. 803. Merit-based principles for employment-based immigration.
 
 **(b) Repeal of copyright laws.**—Title 17, United States Code, is repealed in its entirety.
 
-**(c) Transition.**-
+**(c) Immediate termination of Federal intellectual property protections.**-
 
-(1) Phase-out of existing rights.-Each existing patent, trademark, or copyright shall expire over a 5-year phase-out period beginning on the date of enactment of this Act, with protections reduced pro rata annually (for example, 80 percent in year 1, 60 percent in year 2, 40 percent in year 3, 20 percent in year 4, and 0 percent in year 5). No new patent, trademark, or copyright shall be issued or registered after the date of enactment of this Act. After full phase-out, intellectual property shall be protected only under common law principles of trade secrets and unfair competition. Any compensation that may be constitutionally required as a result of the phase-out described in this paragraph shall be provided, if at all, only in accordance with section 605.
+(1) In general.-On and after the date of enactment of this Act, no patent, trademark, or copyright shall be enforceable under Federal law with respect to any act occurring on or after such date. No new patent, trademark, or copyright shall be issued or registered after such date. After such date, intellectual property shall be protected only under State law and other Federal laws not repealed by this Act, including laws of trade secrets, fraud, and unfair competition. Any compensation that may be constitutionally required as a result of the repeal made by this section shall be provided, if at all, only in accordance with section 604.
 
 ---
 
@@ -202,11 +202,11 @@ Sec. 803. Merit-based principles for employment-based immigration.
 
 **(b) Price transparency.**—
 
-(1) Regulations.—Not later than 180 days after the date of enactment of this Act, and before the effective date of section 202(a)(9), the Secretary of Health and Human Services shall issue regulations requiring each health care provider that is licensed under Federal law to disclose, in advance of the provision of services, the prices charged for such services.
+(1) Regulations.-Not later than 180 days after the date of enactment of this Act, and before the effective date of the abolition of the Department of Health and Human Services under section 101(b)(6), the Secretary of Health and Human Services shall issue regulations requiring each health care provider that is licensed under Federal law to disclose, in advance of the provision of services, the prices charged for such services.
 
 (2) Enforcement.—A person receiving services from a provider described in paragraph (1) may enforce the disclosure requirement created by this subsection through an action under applicable State or Federal law, including common law causes of action.
 
-(3) Continuity after abolition of department.—The regulations issued under paragraph (1) shall remain in effect according to their terms notwithstanding the abolition of the Department of Health and Human Services under section 202(a)(9), and any reference in such regulations to the Secretary of Health and Human Services shall be deemed a reference to the Secretary of the Treasury.
+(3) Continuity after abolition of department.-The regulations issued under paragraph (1) shall remain in effect according to their terms notwithstanding the abolition of the Department of Health and Human Services under section 101(b)(6), and any reference in such regulations to the Secretary of Health and Human Services shall be deemed a reference to the Secretary of the Treasury.
 
 ---
 
@@ -228,7 +228,7 @@ For purposes of this title, any phase-out or transfer shall occur in accordance 
 
 (2) **Scope.**—For purposes of this section, vested benefits include benefits under the old-age and survivors insurance program and the disability insurance program under title II of the Social Security Act, to the extent attributable to wages and quarters of coverage credited as of the date of enactment of this Act. No additional quarters of coverage or benefit accruals shall be credited under title II for wages earned after such date.
 
-(3) **Definition.**—For purposes of this section, the term "actuarial value" has the meaning given in section 606(1), determined under assumptions prescribed by the Secretary of the Treasury by regulation, including interest rate, mortality, and disability assumptions.
+(3) **Definition.**-For purposes of this section, the term "actuarial value" has the meaning given in section 605(1), determined under assumptions prescribed by the Secretary of the Treasury by regulation, including interest rate, mortality, and disability assumptions.
 
 **(c) Transition to private retirement accounts for individuals under age 55.**—
 
@@ -354,7 +354,7 @@ Such block grants are authorized solely as a temporary incident of the power to 
 
 (2) **Medicare enrollee defined.**—For purposes of this section, the term "Medicare enrollee" means any individual who, as of the date of enactment of this Act, is entitled to or enrolled in benefits under title XVIII of the Social Security Act by reason of age, disability, or end-stage renal disease.
 
-(3) **Actuarial value.**—For purposes of this section, the term "actuarial value" has the meaning given in section 606(1), determined under assumptions prescribed by the Secretary of the Treasury by regulation, including interest rate, mortality, morbidity, and health care cost assumptions.
+(3) **Actuarial value.**-For purposes of this section, the term "actuarial value" has the meaning given in section 605(1), determined under assumptions prescribed by the Secretary of the Treasury by regulation, including interest rate, mortality, morbidity, and health care cost assumptions.
 
 **(c) Transition to private health accounts and vouchers.**—
 
@@ -623,7 +623,7 @@ All tariffs, quotas, and trade barriers under the Tariff Act of 1930 (19 U.S.C. 
 
 ---
 
-### SEC. 505. ENCOURAGEMENT OF INTERSTATE COMPACTS FOR MULTI-STATE DISASTERS
+### SEC. 504. ENCOURAGEMENT OF INTERSTATE COMPACTS FOR MULTI-STATE DISASTERS
 
 **(a) Findings.**—Congress finds that interstate compacts, such as the Emergency Management Assistance Compact, enable States to coordinate mutual aid for disasters without Federal intervention, promoting federalism and efficiency.
 
@@ -655,27 +655,19 @@ Nothing in this Act shall be construed to ratify or endorse any interpretation o
 
 ---
 
-### SEC. 604. BIPARTISAN IMPLEMENTATION COMMISSION AND SUNSET REVIEW
+### SEC. 604. CONTINGENT CONSTITUTIONAL SAFEGUARDS
 
-**(a) Commission.**—There is established a Bipartisan Implementation Commission (in this section referred to as the "Commission"), consisting of 8 members, of whom 2 shall be appointed by the Speaker of the House of Representatives, 2 by the minority leader of the House of Representatives, 2 by the majority leader of the Senate, and 2 by the minority leader of the Senate. The Commission shall oversee Federal transitions under this Act and shall report annually to Congress on the fiscal and administrative impacts of this Act. Recommendations of the Commission shall not bind any State or private party and shall be limited to Federal implementation.
-
-**(b) Sunset.**—All new provisions of this Act (other than this section and sections 601 through 603 and 606 through 607) shall sunset 15 years after the date of enactment of this Act unless reauthorized by a joint resolution of Congress.
-
----
-
-### SEC. 605. CONTINGENT CONSTITUTIONAL SAFEGUARDS
-
-**(a) Trigger.**-If, after all appeals are exhausted, a court of competent jurisdiction enters a final judgment holding that the phase-out of Federal intellectual property protections under section 103 effects a taking of property requiring just compensation under the Fifth Amendment to the Constitution, the Secretary of the Treasury shall establish a compensation fund (in this section referred to as the "Fund") for the sole purpose of satisfying the compensation required by such judgment and any similar claims resolved in accordance with such judgment.
+**(a) Trigger.**-If, after all appeals are exhausted, a court of competent jurisdiction enters a final judgment holding that the repeal of Federal intellectual property protections under section 103 effects a taking of property requiring just compensation under the Fifth Amendment to the Constitution, the Secretary of the Treasury shall establish a compensation fund (in this section referred to as the "Fund") for the sole purpose of satisfying the compensation required by such judgment and any similar claims resolved in accordance with such judgment.
 
 **(b) Funding.**-The Fund shall be funded primarily from proceeds of agency asset auctions under section 101(e). To the extent that such proceeds are insufficient to satisfy the compensation required by final judgments described in subsection (a), the Secretary of the Treasury shall pay any additional required amount from other funds in the general fund of the Treasury not otherwise obligated.
 
-**(c) Claims and valuation.**-To the extent consistent with the judgment described in subsection (a), the Secretary of the Treasury shall by regulation prescribe procedures under which holders of existing patents, trademarks, or copyrights affected by the phase-out in section 103(c)(1) may file verified claims not later than 2 years after the date of such regulations. Compensation shall be calculated based on the fair market value of such rights as of the date of enactment of this Act, as determined by independent appraisal.
+**(c) Claims and valuation.**-To the extent consistent with the judgment described in subsection (a), the Secretary of the Treasury shall by regulation prescribe procedures under which holders of existing patents, trademarks, or copyrights affected by the repeal described in section 103(c)(1) may file verified claims not later than 2 years after the date of such regulations. Compensation shall be calculated based on the fair market value of such rights as of the date of enactment of this Act, as determined by independent appraisal.
 
-**(d) No inference absent judgment.**-Nothing in this section shall be construed as a congressional finding that the phase-out described in section 103(c)(1) constitutes a taking of property requiring just compensation in the absence of a final judgment described in subsection (a).
+**(d) No inference absent judgment.**-Nothing in this section shall be construed as a congressional finding that the repeal described in section 103(c)(1) constitutes a taking of property requiring just compensation in the absence of a final judgment described in subsection (a).
 
 ---
 
-### SEC. 606. DEFINITIONS
+### SEC. 605. DEFINITIONS
 
 In this Act:
 
@@ -689,7 +681,7 @@ In this Act:
 
 ---
 
-### SEC. 607. ENFORCEMENT
+### SEC. 606. ENFORCEMENT
 
 The Attorney General may enforce this Act and the amendments made by this Act through civil actions in an appropriate United States district court.
 
@@ -701,7 +693,7 @@ The Attorney General may enforce this Act and the amendments made by this Act th
 
 **(a) Judicial Conference study and recommendations.**-Not later than 1 year after the date of enactment of this Act, the Judicial Conference of the United States shall submit to Congress a report assessing the capacity of the courts of the United States to adjudicate promptly and fairly civil actions arising out of property rights, contract rights, and harms to persons or property that are expected to increase in the absence of Federal regulatory permitting schemes repealed by this Act, including actions alleging nuisance, trespass, or other invasions of property.
 
-**(b) Contents.**-The report under subsection (a) shall include- 
+**(b) Contents.**-The report under subsection (a) shall include-
 
 (1) an assessment of current and projected caseloads in the district courts and courts of appeals relating to such actions, including diversity cases and cases arising under Federal law created or amended by this Act;\
 (2) recommendations, if warranted, for additional Article III judgeships or magistrate judge positions, including proposed allocations among districts and circuits; and\
@@ -713,12 +705,12 @@ The Attorney General may enforce this Act and the amendments made by this Act th
 
 ### SEC. 702. NO FEDERAL PERMIT AS DEFENSE TO PROPERTY CLAIMS
 
-**(a) General rule.**-Except as expressly provided by Act of Congress that clearly authorizes a taking of private property for public use and provides for just compensation, compliance with, or the existence of, any Federal permit, license, approval, or regulation (including any permit, license, approval, or regulation issued under a statute repealed by this Act) shall not be construed to- 
+**(a) General rule.**-Except as expressly provided by Act of Congress that clearly authorizes a taking of private property for public use and provides for just compensation, compliance with, or the existence of, any Federal permit, license, approval, or regulation (including any permit, license, approval, or regulation issued under a statute repealed by this Act) shall not be construed to-
 
 (1) authorize a trespass, nuisance, or other invasion of private property; or\
 (2) bar, preempt, or otherwise limit any claim for relief under applicable State or Federal law seeking damages, injunctive relief, or other remedies for such invasion.
 
-**(b) Savings for sovereign immunity and takings claims.**-Nothing in this section shall be construed to- 
+**(b) Savings for sovereign immunity and takings claims.**-Nothing in this section shall be construed to-
 
 (1) waive the sovereign immunity of the United States or any State, except to the extent otherwise provided by law; or\
 (2) affect any claim for just compensation under the Fifth Amendment to the Constitution or any similar provision of State law.
@@ -763,7 +755,7 @@ The Attorney General may enforce this Act and the amendments made by this Act th
 
 ### SEC. 802. TRANSITION RULES FOR CURRENT H-1B NONIMMIGRANTS
 
-**(a) Continuation of status until expiration.**-Notwithstanding section 801, any alien who, on the day before the effective date specified in section 801(c), is lawfully present in the United States in a nonimmigrant status described in section 101(a)(15)(H)(i)(b) of the Immigration and Nationality Act may remain in such status, and the terms and conditions of such status (including employment authorization with the petitioning employer and any dependent status) shall continue to apply, until the earlier of- 
+**(a) Continuation of status until expiration.**-Notwithstanding section 801, any alien who, on the day before the effective date specified in section 801(c), is lawfully present in the United States in a nonimmigrant status described in section 101(a)(15)(H)(i)(b) of the Immigration and Nationality Act may remain in such status, and the terms and conditions of such status (including employment authorization with the petitioning employer and any dependent status) shall continue to apply, until the earlier of-
 
 (1) the expiration date of the alien's authorized period of stay, as indicated on the Form I-94 or successor document; or\
 (2) the date that is 3 years after the effective date specified in section 801(c).
@@ -774,14 +766,132 @@ The Attorney General may enforce this Act and the amendments made by this Act th
 
 ---
 
-### SEC. 803. MERIT-BASED PRINCIPLES FOR EMPLOYMENT-BASED IMMIGRATION
+### SEC. 803. COMPREHENSIVE POINTS-BASED IMMIGRATION SYSTEM
 
-**(a) Sense of Congress.**-It is the sense of Congress that, consistent with the Naturalization Clause in article I, section 8, clause 4 of the Constitution and the power to regulate foreign commerce, employment-based immigration should prioritize merit, including education, work experience, lawful wages, and economic contribution, and should operate without discrimination based on race, religion, or national origin.
+**(a) In general.**-Title II of the Immigration and Nationality Act (8 U.S.C. 1151 et seq.) is amended by striking sections 201, 202, and 203 and inserting the following:
 
-**(b) Regulations and report.**-Not later than 2 years after the date of enactment of this Act, the Secretary of Homeland Security, in consultation with the Secretary of Labor, shall- 
+"SEC. 201. WORLDWIDE LEVEL OF IMMIGRATION.
 
-(1) review regulations implementing section 203(b) of the Immigration and Nationality Act (8 U.S.C. 1153(b)) and related provisions governing employment-based immigrant visas; and\
-(2) submit to Congress a report describing- 
+"(a) Definitions.-In this title:
 
-(A) recommended statutory changes, if any, to better align employment-based immigration with the merit-based principles set forth in subsection (a), including the reduction of opportunities for abuse by petitioning employers; and\
-(B) options to simplify and accelerate employment-based immigrant visa processing so that employers who truly need skilled workers may sponsor them for lawful permanent residence, rather than relying on long-term temporary nonimmigrant classifications.
+"(1) The term \"points-based immigrant\" means an alien who is issued an immigrant visa or who is granted lawful permanent resident status pursuant to section 203.
+
+"(2) The term \"principal applicant\" means a points-based immigrant selected under section 203(f) as the basis for issuance of an immigrant visa or adjustment of status, excluding any accompanying spouse or child.
+
+"(3) The term \"United States resident population\" means the resident population of the United States as of July 1 of the preceding fiscal year, as most recently published by the Bureau of the Census.
+
+"(b) Worldwide level for points-based immigrants.-For each fiscal year, the worldwide level of points-based immigrants shall be equal to 0.10 percent of the United States resident population, rounded down to the nearest whole number that is a multiple of 1,000.
+
+"(c) Immediate family of citizens.-Notwithstanding subsection (b), immigrant visas shall be made available without numerical limitation for the spouse and child (as defined in section 101(b)(1)) of a citizen of the United States, subject to otherwise applicable grounds of inadmissibility and eligibility requirements.
+
+"(d) Humanitarian programs unaffected.-Nothing in this section shall be construed to limit or expand admissions, parole, or other relief under sections 207, 208, or 212(d)(5) or any other provision of this Act.
+
+"SEC. 202. ELIMINATION OF PER-COUNTRY LIMITATIONS; NONDISCRIMINATION.
+
+"(a) No per-country numerical limitations.-No numerical limitation shall be imposed under this title based on the alien's nationality, place of birth, or place of residence.
+
+"(b) Administration without discrimination.-Selection and issuance of points-based immigrant visas and grants of adjustment of status under this title shall be administered without discrimination on the basis of race, religion, national origin, sex, or ancestry.
+
+"(c) Clarification.-Nothing in this section shall be construed to prohibit the consideration, as provided in section 203, of objective criteria relating to language proficiency, education, work history, lawful wages, prior lawful presence, family relationships, or other factors relevant to assimilation, self-sufficiency, and the national interest, consistent with subsection (b).
+
+"SEC. 203. POINTS-BASED IMMIGRATION SYSTEM.
+
+"(a) Administration.-The Secretary of Homeland Security, in consultation with the Secretary of State and the Secretary of Labor, shall administer a points-based system for the selection of principal applicants for points-based immigrant status under this section.
+
+"(b) Eligibility to enter the pool.-An alien may submit an expression of interest to be considered for selection under this section only if the alien-
+
+"(1) is not inadmissible under section 212, except as may be waived under otherwise applicable law;\
+"(2) submits biometric and biographic information as required by the Secretary of Homeland Security; and\
+"(3) meets such other objective eligibility criteria as the Secretary of Homeland Security may prescribe by regulation, consistent with this section.
+
+"(c) Points criteria.-The Secretary of Homeland Security shall award points to eligible applicants based solely on objective, measurable criteria, including the following:
+
+"(1) English language proficiency.\
+"(2) Educational attainment and recognized credentials.\
+"(3) Verified work experience.\
+"(4) A bona fide offer of employment in the United States with compensation meeting a high-wage threshold.\
+"(5) Entrepreneurship and investment in a business in the United States.\
+"(6) Age.\
+"(7) Lawful prior residence, study, or employment in the United States.\
+"(8) Knowledge of American civics, constitutional structure, and the principles of limited government and private property rights as demonstrated by standardized testing or other objective measures.\
+"(9) Close family relationship to a citizen or lawful permanent resident.\
+"(10) Publicly documented advocacy and affiliations in support of the constitutional principles described in paragraph (8), based solely on objective, verifiable evidence in accordance with subsection (j).\
+"(11) Such other objective criteria as the Secretary may prescribe by regulation that are consistent with the purposes of this section and section 202.
+
+"(d) Deductions criteria.-The Secretary of Homeland Security shall deduct points from an eligible applicant's total points score based solely on objective, measurable criteria, including the following:
+
+"(1) Publicly documented advocacy of a collectivist economic doctrine.\
+"(2) Affiliation with an organization that publicly advocates a collectivist economic doctrine.\
+"(3) Documented violation of the immigration law of the United States or of a foreign country (including the applicant's country of citizenship or habitual residence), including unlawful entry, overstay, or visa fraud, as determined in accordance with subsection (k).\
+"(4) Conviction for a criminal offense in the United States, or a foreign conviction for an offense that would be punishable in the United States, as determined in accordance with subsection (k); except that no points shall be deducted solely on the basis of a foreign conviction for a speech offense, as defined in subsection (k).
+
+"(e) Points schedule and limits.-Not later than 1 year after the date of enactment of the Economic Liberty and Federal Renewal Act of 2025, the Secretary of Homeland Security shall publish in the Federal Register a points schedule establishing the number of points awarded for each criterion in subsection (c) and the number of points deducted for each criterion in subsection (d), including maximum points and maximum deductions for each category. The points schedule shall-
+
+"(1) provide that no single criterion under subsection (c) and no single criterion under subsection (d) may account for more than 30 percent of the total points available;\
+"(2) provide that points for a family relationship under subsection (c)(9) may be awarded only for a spouse, parent, child, or sibling relationship, as determined under section 101(b); and\
+"(3) condition any award of points for an employment offer under subsection (c)(4) on the offer meeting a wage threshold not less than 125 percent of the median wage for the occupation and area of intended employment, as determined using the most recent data published by the Bureau of Labor Statistics or a successor agency; and\
+"(4) with respect to deductions under subsection (d), establish authentication standards and evidentiary rules and provide an applicant a reasonable opportunity to submit a written explanation or correction before any points are deducted.
+
+"(f) Selection.-For each fiscal year, the Secretary of Homeland Security shall select principal applicants from the eligible pool in descending order of net points (total points awarded under subsection (c) reduced by any deductions under subsection (d)) and shall allocate immigrant visas and lawful permanent resident status under this section in a manner that ensures that the total number of points-based immigrants admitted for that fiscal year, including derivatives described in subsection (g), does not exceed the worldwide level described in section 201(b).
+
+"(g) Derivatives counted.-The spouse and child of a selected principal applicant may be issued immigrant visas or granted lawful permanent resident status as derivatives of the principal applicant. Each derivative admitted under this subsection shall be counted against the worldwide level described in section 201(b) for the fiscal year in which such derivative is admitted.
+
+"(h) No labor certification requirement.-Section 212(a)(5)(A) shall not apply to an alien applying for admission or adjustment of status as a points-based immigrant under this section.
+
+"(i) Transparency.-The Secretary of Homeland Security shall publish annually a report describing the points schedule in effect, the minimum score of selected applicants, and aggregate statistics on selection outcomes, in a manner that protects personally identifiable information.
+
+"(j) Administration of advocacy and affiliations criteria.-For purposes of subsection (c)(10) and subsection (d)(1) and (d)(2):
+
+"(1) Objective evidence.-Points may be awarded or deducted only on the basis of objective, verifiable evidence, which may include-
+
+"(A) publicly available writings, publications, or recorded statements (including on internet platforms) attributable to the applicant under authentication standards established in the points schedule;\
+"(B) verifiable records of membership, leadership, employment, or material support for an organization; and\
+"(C) other comparable objective evidence specified in the points schedule.
+
+"(2) Lookback period.-The points schedule shall provide a uniform lookback period of not more than 10 years preceding the date of submission of an expression of interest, except that membership in a totalitarian party described in section 212(a)(3)(D) may be considered without regard to such lookback period to the extent otherwise permitted by law.
+
+"(3) Definitions.-In this subsection:
+
+"(A) Publicly documented advocacy.-The term \"publicly documented advocacy\" means a public communication attributable to the applicant that a reasonable person would understand as the applicant's endorsement, promotion, or encouragement of the referenced doctrine or program.
+
+"(B) Affiliation.-The term \"affiliation\" means membership, leadership, employment, or material support for an organization.
+
+"(C) Socialism and communism.-The terms \"socialism\" and \"communism\" mean doctrines advocating, as a general principle, for state ownership or state control of the means of production, or for the abolition or nationalization of private property rights in productive assets.
+
+"(D) Extensive state intervention through taxation, regulation, or welfare programs.-The term \"extensive state intervention through taxation, regulation, or welfare programs\" means advocacy for a program or system that, as a principal aim, would materially displace voluntary market allocation with state allocation through measures such as nationalization, central economic planning, economy-wide price controls or wage controls, or universal, tax-funded welfare entitlements for able-bodied adults.
+
+"(E) Collectivist economic doctrine.-The term \"collectivist economic doctrine\" means a doctrine described in subparagraph (C) or (D).
+
+"(4) Regulatory implementation.-The points schedule shall, consistent with paragraph (3), specify the types of statements, affiliations, and positions that qualify for points under subsection (c)(10), deductions under subsection (d)(1) and (d)(2), and the scoring methodology for awarding points and deducting points under such subsections.
+
+"(k) Administration of legal-compliance deductions.-For purposes of subsection (d)(3) and subsection (d)(4):
+
+"(1) Immigration violations.-Deductions under subsection (d)(3) shall be based only on official records or final administrative or judicial determinations, including-
+
+"(A) a final order or determination under United States immigration law (including a determination of unlawful entry, unlawful presence, overstay, fraud or willful misrepresentation, removal, deportation, exclusion, or voluntary departure) made by the Department of Homeland Security, the Department of Justice, or the Department of State;\
+"(B) a final order or comparable determination under the immigration law of a foreign country, evidenced by official records; or\
+"(C) a final conviction for an immigration-related offense.
+
+"(2) Criminal convictions.-Deductions under subsection (d)(4) shall be based only on a final judgment of conviction, or a comparable final adjudication under foreign law, evidenced by official court records.
+
+"(3) Speech offense exception for foreign convictions.-For purposes of subsection (d)(4), no points shall be deducted solely on the basis of a foreign conviction for a speech offense. The term \"speech offense\" means an offense under foreign law the elements of which consist solely of speech, expression, publication, or peaceful assembly that would be protected by the First Amendment to the Constitution if committed in the United States, including offenses commonly described as hate speech, blasphemy, or insult laws; except as otherwise expressly provided in this title.
+
+"(4) Foreign-offense comparability.-A foreign conviction may be the basis for deductions under subsection (d)(4) only if the offense, if committed in the United States under substantially similar circumstances, would be punishable as a criminal offense under Federal law or the law of a State, as determined under standards in the points schedule.
+
+"(5) Rule of construction.-Nothing in this subsection shall be construed to waive any ground of inadmissibility or to limit the application of section 212 or other provisions of Federal law.".
+
+**(b) Transition for pending petitions and applications.**-
+
+(1) **In general.**-On the effective date specified in subsection (c), any petition for classification as a family-sponsored or employment-based immigrant that is pending under section 204 of the Immigration and Nationality Act (8 U.S.C. 1154), and any application for an immigrant visa or adjustment of status that is pending as a result of such petition, shall be treated as an expression of interest under section 203 of such Act, as amended by subsection (a), and the beneficiary shall receive such additional points for time-in-queue and for any approved petition as the Secretary of Homeland Security shall prescribe by regulation.
+
+(2) **No new legacy petitions.**-On and after the effective date specified in subsection (c), no petition may be filed under section 204 of the Immigration and Nationality Act for classification in an immigrant category other than the immediate family of citizens described in section 201(c) of such Act, as amended by subsection (a), except as otherwise expressly provided by Act of Congress.
+
+**(c) Effective date.**-The amendments made by subsection (a) and the transition rules in subsection (b) shall take effect on the first day of the first fiscal year that begins after the date that is 2 years after the date of enactment of this Act.
+
+---
+
+### SEC. 804. TECHNICAL AND CONFORMING AMENDMENTS
+
+**(a) Conforming amendments package.**-Not later than 18 months after the date of enactment of this Act, the Secretary of Homeland Security, in consultation with the Secretary of State, the Attorney General, and the Secretary of Labor, shall submit to Congress proposed technical and conforming amendments to the Immigration and Nationality Act and other provisions of law to carry out Title VIII, including amendments to eliminate obsolete cross-references to sections 201 through 203 of the Immigration and Nationality Act as in effect on the day before the effective date specified in section 803(c).
+
+**(b) Interim implementation.**-Pending the enactment of the amendments described in subsection (a), the Secretary of Homeland Security and the Secretary of State shall administer the Immigration and Nationality Act consistent with Title VIII and may issue such regulations and guidance as are necessary to implement Title VIII.
